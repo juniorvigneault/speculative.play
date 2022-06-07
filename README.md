@@ -13,5 +13,5 @@ This project explores gamification through the grieving process in a speculative
 ---
 ### Project 2 - Untitled Speculative Game (2022)
 [Process Journal](journal.md)
-
+---
 Made by Junior Vigneault as a Student Research Assistant.
