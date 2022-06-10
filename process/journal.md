@@ -23,3 +23,16 @@ I'm making a song that I like and I wanted to release it this summer and I thoug
 
 ### June 9 2022 (afternoon)
 I had an idea that is weird and I don't know if it makes much sense but here is the pitch: What if people in the future could take the plane on their computer and "fly" first class? Hahaha. I think it could be funny to create a user interface that would emulate flying in first class. I see it as a super chic, lounge, expensive and luscious experience where you are free to do whatever you want (order stuff, look outside the window, watch something (exploring the interface basically)) while there still being time-based stuff happening. Now there's another layer I want to add: I want it to feel nostalgic. The idea came from a track that I've been working on in the past couple of weeks called *Jet Set Nostalgia*. It sounds loungy and dance and chic and sexy but still nostalgic and emotional. I think I want this whole thing to be a video for this track. One avenue I'm thinking of working with it is using gifs in dialogue boxes that you can open and close. Hahaha, I feel like this idea only made sense in my head. I'll try to sketch stuff today and see...
+
+### June 10 2022
+Things in planes :
+1. Screen to watch something
+2. Eat and drink fancy stuff
+3. Sleep
+4. Look out the window
+5. Go to the washroom
+6. Take some pills to be less anxious
+7. Put seatbelt on
+8. Stand up
+
+I should do a list of things that rich people do or things that feel jet set. I think that's funny, to create a jet set experience. haha. Online opulence. Still not 100% trusting myself on all of this haha. 
