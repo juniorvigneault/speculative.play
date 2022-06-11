@@ -41,7 +41,13 @@ I should do a list of things that rich people do or things that feel jet set. I 
 I made a mood board about chic GUIs
 <br>
 <br>
+
 ![](/process/images/moodboard_gui.png)
 I also made a short video snippet of a part of the track with some videos I found to get more of a feel of the emotion I want to go for.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPmcNNeHL9I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Complete Example
+Expanding on @MGA's Answer
+
+While it's not possible to embed a video in Markdown you can "fake it" by including a valid linked image in your markup file, using this format:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZPmcNNeHL9I/0.jpg)](https://youtu.be/ZPmcNNeHL9I "Video Title")
