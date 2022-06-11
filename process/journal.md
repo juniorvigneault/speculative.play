@@ -38,4 +38,4 @@ Things in planes :
 I should do a list of things that rich people do or things that feel jet set. I think that's funny, to create a jet set experience. haha. Online opulence. Still not 100% trusting myself on all of this haha.
 
 ### June 11 2022 (afternoon)
-I made a moodboard ![](process/images/moodboard_gui.png)
+I made a moodboard ![](/process/images/moodboard_gui.png)
