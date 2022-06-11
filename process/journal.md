@@ -41,8 +41,10 @@ I should do a list of things that rich people do or things that feel jet set. I 
 I made a mood board about chic GUIs
 <br>
 <br>
-
 ![](/process/images/moodboard_gui.png)
 I also made a short video snippet of a part of the track with some videos I found to get more of a feel of the emotion I want to go for.
-
+<br>
+<br>
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ZPmcNNeHL9I/0.jpg)](https://youtu.be/ZPmcNNeHL9I "Video Title")
+<br>
+<br>
