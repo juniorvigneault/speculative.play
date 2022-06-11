@@ -40,4 +40,5 @@ I should do a list of things that rich people do or things that feel jet set. I 
 ### June 11 2022 (afternoon)
 I made a mood board about chic GUIs
 <br>
+<br>
 ![](/process/images/moodboard_gui.png)
