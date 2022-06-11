@@ -42,3 +42,6 @@ I made a mood board about chic GUIs
 <br>
 <br>
 ![](/process/images/moodboard_gui.png)
+I also made a short video snippet of a part of the track with some videos I found to get more of a feel of the emotion I want to go for.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPmcNNeHL9I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
