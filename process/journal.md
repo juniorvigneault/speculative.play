@@ -45,9 +45,4 @@ I made a mood board about chic GUIs
 ![](/process/images/moodboard_gui.png)
 I also made a short video snippet of a part of the track with some videos I found to get more of a feel of the emotion I want to go for.
 
-Complete Example
-Expanding on @MGA's Answer
-
-While it's not possible to embed a video in Markdown you can "fake it" by including a valid linked image in your markup file, using this format:
-
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ZPmcNNeHL9I/0.jpg)](https://youtu.be/ZPmcNNeHL9I "Video Title")
