@@ -48,3 +48,6 @@ I also made a short video snippet of a part of the track with some videos I foun
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ZPmcNNeHL9I/0.jpg)](https://youtu.be/ZPmcNNeHL9I "Video Title")
 <br>
 <br>
+
+### June 15 2022 (morning)
+I put two looping videos in Jquery dialog boxes that you can open via two different buttons. I'm not 100% sure that when you close the dialog box the video continues to loop, but I think it does. I think if I want everything to remain on rhythm That would be ideal, to load everything at the same time at the beginning. I also tried the option of having only the videos themselves without dialog boxes, I think it gives it a more futuristic and clean vibe which I like, but there is something I like when they are all in their boxes with the x button. To close the videos only would also be something to consider but that could be fun, maybe dragging and dropping the videos in a garbage or something. Another issue I want to figure out is the loading videos and format because I'm probably going to have a lot of different videos and I don't want it to lag. So i'll have to check that out too. 

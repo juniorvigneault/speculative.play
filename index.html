@@ -8,18 +8,37 @@
   <title>Speculative Play Project</title>
 
   <!-- CSS stylesheet(s) -->
-
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
 
   <!-- Library script(s) -->
 
 
   <!-- My script(s) -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
 </head>
+
 <body>
   <!-- HTML would go here if needed. -->
-  <h1 id="main-heading">HELLO WORLD</h1>
-  <h2 class="header">IT'S RED</h2>
+  <div class="player">
+    <video id="planeWing" autoplay muted loop>
+      <source src="assets/videos/airplane.mp4" type="video/mp4">
+      <!-- fallback content here -->
+    </video>
+    <video id="stewardess" autoplay muted loop>
+      <source src="assets/videos/stewardess.mp4" type="video/mp4">
+      <!-- fallback content here -->
+    </video>
+
+  </div>
+  <div class="controlButtons">
+    <button type="button" name="button" id="windowButton">Open Window Video</button>
+  </div>
+  <div class="controlButtons">
+    <button type="button" name="button" id="stewardessButton">Open Stewardess Video</button>
+  </div>
   <script src="js/script.js"></script>
 </body>
+
 </html>
